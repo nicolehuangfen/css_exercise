@@ -1,0 +1,57 @@
+/* CSS Document */
+li{
+list-style-type:none;
+}
+ul#nav li{
+display:block;
+float:left;
+border:#000000 solid 1px;
+margin:1px;
+text-align:center;
+letter-spacing:2px;
+padding:0px 1px 1px 3px;
+background:#66CCFF;
+}
+a{
+text-decoration:none;
+font-size:12px;
+}
+div#div2{
+width:400px;
+height:150px;
+border:#000000 solid 1px;
+margin:3px 2px 2px 30px;
+padding:0px;
+}
+img{
+float:left;
+margin:10px;
+}
+#div2 ul{
+margin:8px;
+padding:0px;
+}
+body#home ul#nav li#home{
+border-bottom:#FFFFFF solid 1px;
+background:#FFFFFF;
+}
+body#news ul#nav li#news{
+border-bottom:#FFFFFF solid 1px;
+background:#FFFFFF;
+}
+body#sport ul#nav li#sport{
+border-bottom:#FFFFFF solid 1px;
+background:#FFFFFF;
+}
+body#music ul#nav li#music{
+border-bottom:#FFFFFF solid 1px;
+background:#FFFFFF;
+}
+body#next ul#nav li#next{
+border-bottom:#FFFFFF solid 1px;
+background:#FFFFFF;
+}
+body#blog ul#nav li#blog{
+border-bottom:#FFFFFF solid 1px;
+background:#FFFFFF;
+}

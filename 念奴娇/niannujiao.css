@@ -1,0 +1,23 @@
+/* CSS Document */
+#background1{
+background:url(bg9.jpg) no-repeat;
+margin:0px;
+padding:90px;
+text-align:center;
+width:800px;
+height:450px;
+}
+#background2{
+background:url(bg10.jpg);
+border:2px solid;
+border-color:#000000;
+width:75%;
+height:50%;
+}
+ul{
+margin:10px;
+}
+li{
+float:right;display:inline;margin-left:4px;width:20px;height:100px;font-size:14px;word-wrap:break-word;word-break:nomal;
+}
+

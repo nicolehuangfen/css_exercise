@@ -1,0 +1,102 @@
+/* CSS Document */
+body {
+     width:59%;
+     height: 800px;
+     margin-top: 0px;
+     text-align: center;
+     background-color:#103F3D;
+	   margin:0 auto; 
+	   padding:0;
+	   border:#FFFF00 solid 2px;
+	   }
+#head{
+			background-image:url(banner.jpg);
+			height:100px;
+}
+#navigator{
+			margin:-15px;
+			margin-left:-40px;
+			padding:0px;
+}
+#navigator li{
+			float:left;
+			list-style-type:none;
+			margin:1px;
+			display:block;
+			background:url(button1.jpg) repeat;
+			width:82px;
+			height:25px;
+			padding-top:5px;
+			margin:1px;
+}
+#navigator li a:hover{
+			display:block;
+			width:82px;
+			height:30px;
+			margin-top:-5px;
+			background-color:#0099FF;
+}
+a{
+			text-decoration:none;
+}
+#left{
+			float:left;
+}
+#img{
+			text-align:center;
+			border:#0000FF solid 2px;
+}
+#imgText{
+			margin:5px;
+			padding:5px;
+			color:#00FFFF;
+			font-weight:bold;
+			border-top:#FFFFFF dotted 1px;
+			border-bottom:#FFFFFF dotted 1px;
+}
+#hldd,#newPaper{
+			background:url(leftbg.jpg);
+			font-weight:bold;
+}
+#left div.myclassify{
+			background:url(leftbg.jpg);
+			position:static;
+}
+#ul1{
+			float:left;
+			margin-left:-25px;
+			margin-top:0px;
+}
+#ul2{
+			margin-left:-25px;
+}
+
+#ul1 li,#ul2 li{
+			list-style-type:none;
+			color:#00FFFF;
+}
+#ul3,#myul3{
+			text-align:left;
+}
+#ul3 li,#myul3 li{
+			border-bottom:#FFFFFF dotted 1px;
+			color:#00FFFF;
+}
+#right{
+			margin:5px 0px 0px 5px;
+			float:left;
+			width:535px;
+			height:650px;
+			border-left:#FFFFFF dashed 1px;
+}
+#title1,#title2{
+			text-align:left;
+			font-weight:bold;
+			color:#FFFF00;
+			font-size:20px;
+			margin:5px;
+}
+#content1,#content2{
+			text-align:left;
+			color:#FFFFFF;
+}
